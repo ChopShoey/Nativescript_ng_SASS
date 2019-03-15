@@ -1,9 +1,13 @@
 {
-    "files.exclude": {
-        "**/*.css": true,
-        "**/*.js": true,
-        "hooks": true,
-        "node_modules": true,
-        "platforms": true
-    }
+  "search.exclude": {
+    "**/*.js": true,
+    "**/*.css": true
+  },
+  "files.exclude": {
+    "**/*.css": true,
+    "**/*.js": true,
+    "hooks": true,
+    "node_modules": true,
+    "platforms": true
+  }
 }
