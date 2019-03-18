@@ -32,3 +32,5 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+src/app.ios.css
+src/app.android.css
